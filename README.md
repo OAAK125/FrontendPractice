@@ -3,6 +3,6 @@
 
 <h3> HTML & CSS </h3>
                                                                    
-| 01  | Tribute Page 
+| 01  | [Tribute Page](https://github.com/OAAK125/FrontendPractice/tree/main/TributePage) 
 
 | 02  | Survey Page
