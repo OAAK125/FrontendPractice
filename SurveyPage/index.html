@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Survey Page</title>
+    <link rel="icon" type="image/png" href="assets/survey.png">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1> Survey Form:</h1>
+        <hr>
+    </header>
+    <main> 
+        <form>
+            <fieldset>
+                <br>
+                <legend>Customer Name</legend>
+                <label for="fname"> First Name:</label>
+                    <br>
+                    <input type="text" id="fname" name="FirstName" placeholder="John" autofocus> 
+                <br> <br>
+                <label for="lname"> Last Name:</label>
+                    <br>
+                    <input type="text" id="lname" name="LastName" placeholder="Doe">
+                <br> <br>
+            </fieldset>
+
+            <br><br>
+
+            <fieldset>
+                <br>
+                <legend>Address</legend>
+                <label for="saddress"> Street Address:</label>
+                    <br>
+                    <input type="text" id="saddress" name="StreetAddress">
+                <br> <br>
+                <label for="city"> City:</label>
+                    <br>
+                    <input type="text" id="city" name="City">
+                <br><br>
+                <label for="state"> State:</label>
+                    <br>
+                    <input type="text" id="state" name="State">
+                <br><br>
+                <label for="zip"> Zip Code:</label>
+                    <br>
+                    <input type="text" id="zip" name="ZipCode">
+                <br><br>
+                <label for="country"> Country:</label>
+                    <br>
+                    <input type="text" id="country" name="Country">
+                <br><br>
+            </fieldset>
+
+            <br><br>
+
+            <fieldset>
+                <br>
+                <legend>Contact</legend>
+                <label for="tel"> Contact:</label>
+                    <br>
+                    <input type="tel" id="contact" name="Contact" placeholder="xxx-xxx-xxx">
+                <br><br>
+                <label for="email"> Email:</label>
+                    <br>
+                    <input type="email" id="email" name="Email" placeholder="johndoe@email.com">
+                <br><br>
+            </fieldset>
+
+            <br><br>
+
+            <fieldset>
+                <br>
+               <legend> Gender</legend>
+                    <input type="radio" name="Gender" value="male" id="male">
+                    <label for="male"> Male</label>
+                    <input type="radio" name="Gender" value="female" id="female">
+                    <label for="female"> Female</label>
+                    <input type="radio" name="Gender" value="NotToSay" id="NotToSay">
+                    <label for="NotToSay">Prefer not to say</label>
+            </fieldset>
+
+            <br><br>
+
+            <fieldset>
+                <br>
+                <legend>Ratings</legend>
+                <input type="radio" name="Rating" value="1" id="1">
+                <label for="1"> 1</label>
+                <input type="radio" name="Rating" value="2" id="2">
+                <label for="2"> 2</label>
+                <input type="radio" name="Rating" value="3" id="3">
+                <label for="3"> 3</label>
+                <input type="radio" name="Rating" value="4" id="4">
+                <label for="4"> 4</label>
+                <input type="radio" name="Rating" value="5" id="5">
+                <label for="5"> 5</label>
+                
+            
+                <br><br>
+            </fieldset>
+
+            <br><br>
+
+            <input type="submit" value="Submit">
+        </form>
+    </main>
+</body>
+</html>
