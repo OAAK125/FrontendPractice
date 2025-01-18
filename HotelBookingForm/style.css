@@ -1,0 +1,79 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+img{
+    width: 100%; 
+    height: 200px; 
+    object-fit: cover;
+    padding: 0 0 1ch 0;
+}
+
+header{
+    padding: 1ch 5ch;
+    text-align: center;
+    display: block;
+}
+
+header p{
+    padding: 5px; 
+    color: gray;
+}
+
+form{
+    padding: 50px;
+}
+
+span{
+    color: red;
+}
+
+input[type=text], input[type=email], textarea {  
+    width: 100%;  
+    padding: 15px;  
+    margin: 5px 0 15px 0;  
+    display: inline-block;  
+    border: none;  
+    background: whitesmoke;  
+}  
+
+select, input[type=date], input[type=time]{
+    padding: 5px;
+    margin: 5px 10px 15px 0; 
+}
+
+input[type=radio]{
+    padding: 15px;  
+    margin: 5px 0 15px 0;
+}
+
+label, .radioLabel{
+    font-weight: bold;
+    font-size: larger;
+}
+
+input[type="radio"] + label{
+    font-weight: normal;
+    font-size: medium;
+}
+
+button{
+    background-color: whitesmoke;
+    padding: 16px 20px;  
+    margin: 5px 10px 15px 0; 
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 50%;
+    
+}
+
+button:hover{
+    border: solid black;
+    font-weight: bold;
+    box-shadow: 0 1px 1px 0
+}
