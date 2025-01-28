@@ -11,4 +11,4 @@
 
 <h3>HTML, CSS & JS</h3>
 
-| 01  | [Wave Form]
+| 01  | [Form Input Wave]
