@@ -9,6 +9,3 @@
 
 | 03  | [Technical Documentation Page](https://github.com/OAAK125/FrontendPractice/tree/main/DocumentationPage)
 
-<h3>HTML, CSS & JS</h3>
-
-| 01  | [Form Input Wave]
