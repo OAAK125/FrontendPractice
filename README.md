@@ -5,7 +5,7 @@
                                                                    
 | 01  | [Tribute Page](https://github.com/OAAK125/TributePage.git) |  | [Live Demo](https://oaak125.github.io/TributePage/)
 
-| 02  | [Hotel Booking Page](https://github.com/OAAK125/FrontendPractice/tree/main/Hotel%20Booking%20Form)
+| 02  | [Hotel Booking Page](https://github.com/OAAK125/HotelBookingForm.git) |  | [Live Demo](https://oaak125.github.io/HotelBookingForm/)
 
-| 03  | [Technical Documentation Page](https://github.com/OAAK125/FrontendPractice/tree/main/Documentation%20Page)
+
 
