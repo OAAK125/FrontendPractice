@@ -9,7 +9,7 @@
 
 | 03  | [Registration Form](https://github.com/OAAK125/RegistrationForm) |  | [Live Demo](https://oaak125.github.io/RegistrationForm/)
 
-| 04  |[Tribute Page](https://github.com/OAAK125/TributePage.git) |  | [Live Demo](https://oaak125.github.io/TributePage/)
+| 04  | [Tribute Page](https://github.com/OAAK125/TributePage.git) |  | [Live Demo](https://oaak125.github.io/TributePage/)
 
 
 
