@@ -13,6 +13,8 @@
 
 | 05  | [Photo Gallery](https://github.com/OAAK125/PhotoGallery) |  | [Live Demo](https://oaak125.github.io/PhotoGallery/)
 
+| 06  | [Nutrition Label](https://github.com/OAAK125/NutritionLabel) |  | [Live Demo](https://oaak125.github.io/NutritionLabel/)
+
 
 
 
