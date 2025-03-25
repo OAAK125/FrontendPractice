@@ -20,7 +20,18 @@
 
 <h3> HTML, CSS & JS </h3>
 
-| 01 | [Role Playing Game](https://github.com/OAAK125/RPG) |  | [Live Demo]
+| 01 | [Role Playing Game](https://github.com/OAAK125/RPG) |  | [Live Demo](https://oaak125.github.io/RPG/)
+
+| 02 | [Rock, Paper, Scissors](https://github.com/OAAK125/RockPaperScissors) |  | [Live Demo](https://oaak125.github.io/RockPaperScissors/)
+
+| 03 | [Music Player](https://github.com/OAAK125/MusicPlayer) |  | [Live Demo](https://oaak125.github.io/MusicPlayer/)
+
+| 04 | [To Do App](https://github.com/OAAK125/ToDoApp) |  | [Live Demo](https://oaak125.github.io/ToDoApp/)
+
+
+
+
+
 
 
 
