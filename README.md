@@ -14,8 +14,9 @@
 
 | 05  | [Cards Hover Effect](https://github.com/OAAK125/CardHover)  |  | [Live Demo](https://oaak125.github.io/CardHover/)
 
+| 06  | [Glassmorphism UI Card](https://github.com/OAAK125/GlassmorphismUiCard)  |  | [Live Demo](https://oaak125.github.io/GlassmorphismUiCard/)
 
-
+| 07  | [Infinitee Slider](https://github.com/OAAK125/InfiniteSlider)  |  | [Live Demo](https://oaak125.github.io/InfiniteSlider/)
 
 
 
