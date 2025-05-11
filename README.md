@@ -16,7 +16,7 @@
 
 | 06  | [Glassmorphism UI Card](https://github.com/OAAK125/GlassmorphismUiCard)  |  | [Live Demo](https://oaak125.github.io/GlassmorphismUiCard/)
 
-| 07  | [Infinitee Slider](https://github.com/OAAK125/InfiniteSlider)  |  | [Live Demo](https://oaak125.github.io/InfiniteSlider/)
+| 07  | [Infinite Slider](https://github.com/OAAK125/InfiniteSlider)  |  | [Live Demo](https://oaak125.github.io/InfiniteSlider/)
 
 
 
