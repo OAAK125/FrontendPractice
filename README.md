@@ -18,6 +18,8 @@
 
 | 07  | [Infinite Slider](https://github.com/OAAK125/InfiniteSlider)  |  | [Live Demo](https://oaak125.github.io/InfiniteSlider/)
 
+| 08  | [Sushi-Themed Landing Page](https://github.com/OAAK125/SushiThemedLandingPage)  |  | [Live Demo](https://oaak125.github.io/SushiThemedLandingPage/)
+
 
 
 
