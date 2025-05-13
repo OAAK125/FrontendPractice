@@ -20,8 +20,7 @@
 
 | 08  | [Sushi-Themed Landing Page](https://github.com/OAAK125/SushiThemedLandingPage)  |  | [Live Demo](https://oaak125.github.io/SushiThemedLandingPage/)
 
-
-
+<br>
 <h3> HTML, CSS & JS only </h3>
 
 | 01  | [Product Page](https://github.com/OAAK125/Ecommerce-Product-Page)  |  | [Live Demo](https://oaak125.github.io/Ecommerce-Product-Page/)
