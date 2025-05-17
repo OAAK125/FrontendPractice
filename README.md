@@ -25,4 +25,6 @@
 
 | 01  | [Product Page](https://github.com/OAAK125/Ecommerce-Product-Page)  |  | [Live Demo](https://oaak125.github.io/Ecommerce-Product-Page/)
 
+| 02  | [FAQ](https://github.com/OAAK125/FAQ)  |  | [Live Demo](https://oaak125.github.io/FAQ/)
+
 
