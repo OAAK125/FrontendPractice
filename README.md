@@ -27,4 +27,4 @@
 
 | 02  | [FAQ](https://github.com/OAAK125/FAQ)  |  | [Live Demo](https://oaak125.github.io/FAQ/)
 
-
+| 03  | [Random Color Palette Generator](https://github.com/OAAK125/Random-Color-Palette-Generator)  |  | [Live Demo](https://oaak125.github.io/Random-Color-Palette-Generator/)
