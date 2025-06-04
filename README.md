@@ -30,3 +30,5 @@
 | 03  | [Random Color Palette Generator](https://github.com/OAAK125/Random-Color-Palette-Generator)  |  | [Live Demo](https://oaak125.github.io/Random-Color-Palette-Generator/)
 
 | 04  | [Drag Drop Sticky Notes](https://github.com/OAAK125/Drag-Drop-Sticky-Notes)  |  | [Live Demo](https://oaak125.github.io/Drag-Drop-Sticky-Notes/)
+
+| 05  | [Quiz App](https://github.com/OAAK125/Quiz-App)  |  | [Live Demo](https://oaak125.github.io/Quiz-App/)
