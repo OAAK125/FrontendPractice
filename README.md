@@ -32,3 +32,5 @@
 | 04  | [Drag Drop Sticky Notes](https://github.com/OAAK125/Drag-Drop-Sticky-Notes)  |  | [Live Demo](https://oaak125.github.io/Drag-Drop-Sticky-Notes/)
 
 | 05  | [Quiz App](https://github.com/OAAK125/Quiz-App)  |  | [Live Demo](https://oaak125.github.io/Quiz-App/)
+
+| 06  | [Custom Captcha](https://github.com/OAAK125/Custom-Captcha)  |  | [Live Demo](https://oaak125.github.io/Custom-Captcha/)
