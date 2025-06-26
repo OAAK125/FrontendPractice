@@ -34,3 +34,8 @@
 | 05  | [Quiz App](https://github.com/OAAK125/Quiz-App)  |  | [Live Demo](https://oaak125.github.io/Quiz-App/)
 
 | 06  | [Custom Captcha](https://github.com/OAAK125/Custom-Captcha)  |  | [Live Demo](https://oaak125.github.io/Custom-Captcha/)
+
+<br>
+<h3> Cloned Webpages </h3>
+
+| 01  | [Lobe Tour Clone (Tailwind CSS](https://github.com/OAAK125/Lobe-Tour-Website-Clone)  |  | [Live Demo](https://oaak125.github.io/Lobe-Tour-Website-Clone/)
