@@ -17,7 +17,9 @@
 <br>
 <h3> HTML, CSS & JS only </h3>
 
-| 01  | [QR Code Generatorr](https://github.com/OAAK125/QRcodeGenerator)  |  | [Live Demo](https://oaak125.github.io/QRcodeGenerator/)
+| 01  | [QR Code Generator](https://github.com/OAAK125/QRcodeGenerator)  |  | [Live Demo](https://oaak125.github.io/QRcodeGenerator/)
+
+| 02  | [Captcha Generator](https://github.com/OAAK125/CaptchaGenerator)  |  | [Live Demo](https://oaak125.github.io/CaptchaGenerator/)
 
 <br>
 <h3> Cloned Webpages </h3>
