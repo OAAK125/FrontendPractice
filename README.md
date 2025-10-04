@@ -21,6 +21,11 @@
 
 | 02  | [Captcha Generator](https://github.com/OAAK125/CaptchaGenerator)  |  | [Live Demo](https://oaak125.github.io/CaptchaGenerator/)
 
+| 03  | [FAQ](https://github.com/OAAK125/FAQ)  |  | [Live Demo](https://oaak125.github.io/FAQ/)
+
+| 04  | [Random Color Generator](https://github.com/OAAK125/RandomColorGenerator)  |  | [Live Demo](https://oaak125.github.io/RandomColorGenerator/)
+
+
 <br>
 <h3> Cloned Webpages </h3>
 
