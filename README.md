@@ -25,6 +25,8 @@
 
 | 04  | [Random Color Generator](https://github.com/OAAK125/RandomColorGenerator)  |  | [Live Demo](https://oaak125.github.io/RandomColorGenerator/)
 
+| 05  | [Weather App](https://github.com/OAAK125/WeatherApp)  |  | [Live Demo](https://oaak125.github.io/WeatherApp/)
+
 
 <br>
 <h3> Cloned Webpages </h3>
